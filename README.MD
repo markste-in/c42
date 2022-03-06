@@ -1,7 +1,7 @@
 # Alfa Romeo C42 3d-Model Files
 This repository provides 3d models based on the AR model presented by Alfa Romeo themselves.
 <p align="center">
-<img width="350px" src="docs/prev3.gif" />
+<img src="docs/prev3.gif" />
 </p>
 
 C42 Model
