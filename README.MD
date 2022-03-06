@@ -40,3 +40,4 @@ Links
 
 License
 ======
+- [WTFPL](LICENSE.md)
