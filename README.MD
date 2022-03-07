@@ -35,6 +35,16 @@ File:
 
 <br>
 
+Related Work / Models
+=======
+- [Mercedes Amg F1 2019](https://www.reddit.com/r/F1Technical/comments/mhi126/comment/gszq7g0/?utm_source=share&utm_medium=web2x&context=3)
+
+- [Williams FW43 2020/2021](https://www.reddit.com/r/formula1/comments/lxaihc/comment/gplxdjj/?utm_source=share&utm_medium=web2x&context=3)
+
+- [Generic 2022 F1 car](https://sketchfab.com/3d-models/f1-2022-generic-car-26bed686f20c4a05bb1ff2de3145ca78)
+
+<br>
+
 
 Links
 =======
