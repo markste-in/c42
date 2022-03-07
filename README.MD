@@ -43,6 +43,8 @@ Related Work / Models
 
 - [Generic 2022 F1 car](https://sketchfab.com/3d-models/f1-2022-generic-car-26bed686f20c4a05bb1ff2de3145ca78)
 
+- [CFD Models and CAD Files by Marius Imiolczyk](https://grabcad.com/marius.imiolczyk-1/models)
+
 <br>
 
 
