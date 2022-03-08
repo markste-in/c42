@@ -17,6 +17,8 @@ C42 Model
 ### Glb - Files
 - Entire Car: c42.glb
 
+### stl - Files (low poly, probably not suitable for 3d printing?)
+- Entire Car: c42.stl
 <br>
 
 Blender Demo File
